@@ -2,9 +2,12 @@
 Demonstration repo for teaching the basics of github
 
 ## Setting
-Hawkins, Indiana - a tranquil place with nothing really going on.
+Hawkins, Indiana - a crazy place to be!
 
 ## Characters
 * Joyce
 * Hopper
 * Nancy
+* Tom
+* Bob
+* Will
